@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Davide Dunne website</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Davide Dunne website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 16:16:43 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: NetChan</title>
+      <link>http://localhost:1313/posts/netchan/</link>
+      <pubDate>Wed, 08 May 2024 16:16:43 -0600</pubDate>
+      <guid>http://localhost:1313/posts/netchan/</guid>
+      <description>Netchan: A .NET Imageboard This project, named &amp;ldquo;Netchan&amp;rdquo;, is an imageboard developed using .NET, Entity Framework, and Blazor. It was designed with the aim to provide a platform for users to share and discuss images.&#xA;Key Technologies .NET: The backbone of the project is .NET, a free, cross-platform, open-source developer platform for building many different types of applications. It was used to manage the overall structure and functionality of the application.</description>
+    </item>
+    <item>
+      <title>Project: HEMS</title>
+      <link>http://localhost:1313/posts/hems/</link>
+      <pubDate>Wed, 08 May 2024 16:13:28 -0600</pubDate>
+      <guid>http://localhost:1313/posts/hems/</guid>
+      <description>IoT Medical Sensor Project This project is an IoT-based solution developed to monitor and report medical data. It was designed with the aim to streamline the process of health monitoring and data management.&#xA;Key Technologies ESP32 Board: The core of the project is the ESP32 board, a powerful and versatile microcontroller that is ideal for IoT projects. It was used to interface with various medical sensors and manage the data collection process.</description>
+    </item>
+    <item>
+      <title>Project: Medicine Bank App</title>
+      <link>http://localhost:1313/posts/medicine-bank-app/</link>
+      <pubDate>Wed, 08 May 2024 16:02:45 -0600</pubDate>
+      <guid>http://localhost:1313/posts/medicine-bank-app/</guid>
+      <description>Medicine Bank Application for NGO This project is a mobile application developed for iOS, specifically designed to serve as a Medicine Bank for a non-profit organization. It was developed as part of a school project, with the aim to streamline the process of medicine distribution and management.&#xA;Key Technologies Swift: The application is built using Swift, a powerful and intuitive programming language for iOS. Swift&amp;rsquo;s clear syntax and developer-friendly features made it an ideal choice for this project.</description>
+    </item>
+  </channel>
+</rss>
